@@ -1,6 +1,7 @@
-﻿namespace Stoa.Logos;
-
-public class Logos
+﻿namespace Stoa.Logos
 {
+    public class Logos
+    {
 
+    }
 }
