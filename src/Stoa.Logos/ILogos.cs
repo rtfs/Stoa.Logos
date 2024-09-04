@@ -1,10 +1,9 @@
 ﻿namespace Stoa.Logos
 {
     /// <summary>
-    /// Main class.
+    /// Main interface.
     /// </summary>
-    public class Logos
+    public interface ILogos
     {
-
     }
 }
