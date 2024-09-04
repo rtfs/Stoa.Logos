@@ -1,1 +1,1 @@
-# 
+# Stoa Logos
