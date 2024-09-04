@@ -8,8 +8,8 @@
 
   <PropertyGroup>
     <Description>Stoa logos</Description>
-    <VersionPrefix>0.0.1-alpha2</VersionPrefix>
-    <AssemblyVersion>$(VersionPrefix.Substring(0,3)).0.0</AssemblyVersion>
+    <PackageVersion>0.0.0</PackageVersion>
+    <AssemblyVersion>$(PackageVersion.Substring(0,3)).0.0</AssemblyVersion>
     <Authors>ywh</Authors>
     <!-- .NET Framework version targeting is frozen at these two TFMs. -->
     <TargetFrameworks Condition=" '$(OS)' == 'Windows_NT'">net471;net462</TargetFrameworks>
