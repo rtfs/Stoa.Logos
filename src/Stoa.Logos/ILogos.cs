@@ -1,7 +1,7 @@
 ﻿namespace Stoa.Logos
 {
     /// <summary>
-    /// Main interface.
+    /// Main great interface.
     /// </summary>
     public interface ILogos
     {
