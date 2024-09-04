@@ -25,12 +25,13 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <!-- <PackageIcon>icon.png</PackageIcon> -->
     <!-- <PackageProjectUrl>https://serilog.net/</PackageProjectUrl> -->
-    <!-- <TreatSpecificWarningsAsErrors /> -->
-    <!-- <IsTrimmable>true</IsTrimmable> -->
-    <!-- <PolySharpIncludeRuntimeSupportedAttributes>true</PolySharpIncludeRuntimeSupportedAttributes> -->
-    <!-- <EmbedUntrackedSources>true</EmbedUntrackedSources> -->
-    <!-- <IncludeSymbols>true</IncludeSymbols> -->
-    <!-- <SymbolPackageFormat>snupkg</SymbolPackageFormat> -->
+    <!-- <TreatSpecificWarningsAsErrors />
+    <IsTrimmable>true</IsTrimmable>
+    <PolySharpIncludeRuntimeSupportedAttributes>true</PolySharpIncludeRuntimeSupportedAttributes>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat> -->
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
 
   <!-- `PropertyGroup` per TFM: -->
